@@ -4,7 +4,7 @@
 
 ##### I'm so fricking sick and tired of the code
 ###### The Milestone Personal Project
-[https://stump-carrot-3a1.notion.site/The-Milestone-226aa502b397809cb7dff3be1161f8ed]
+https://stump-carrot-3a1.notion.site/The-Milestone-226aa502b397809cb7dff3be1161f8ed
 
 <!--
 **VihangaClement/vihangaclement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
